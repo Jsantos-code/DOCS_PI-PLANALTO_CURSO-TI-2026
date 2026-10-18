@@ -31,10 +31,15 @@ A documentação será organizada da seguinte forma:
 
 PI-Planalto/
 ├── README.md
+
 ├── 01-Briefing/
+
 ├── 02-Levantamento/
+
 ├── 03-Requisitos/
+
 ├── 04-Casos-de-Uso/
+
 └── 05-Diagrama-de-Classes/
 Cada pasta será destinada aos documentos correspondentes à sua respectiva etapa do projeto.
 
